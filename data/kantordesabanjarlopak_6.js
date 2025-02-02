@@ -1,0 +1,1 @@
+var json_kantordesabanjarlopak_6 = {"type":"FeatureCollection","name":"kantordesabanjarlopak_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"nama":"kantor desa banjar lopak","gambar":"D:\\KAMPUS\\qgis\\desa.jpeg"},"geometry":{"type":"Point","coordinates":[101.6634358921103,-0.48246610322028]}}]}

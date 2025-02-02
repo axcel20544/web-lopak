@@ -1,0 +1,1 @@
+var json_mesjidbanjarlopak_10 = {"type":"FeatureCollection","name":"mesjidbanjarlopak_10","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"nama":"masjid al muhajirin","gambar":"D:\\KAMPUS\\qgis\\muhajirin.jpeg"},"geometry":{"type":"Point","coordinates":[101.66585559599902,-0.479757935862635]}}]}
